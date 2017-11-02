@@ -1,0 +1,47 @@
+* {
+   text-align: center;
+}
+header {
+  background-color: lightgrey; 
+  padding: 20px;
+  margin: 5px;
+}
+nav{
+  background: lightgrey; 
+  padding: 20px;
+  margin:5px;
+}
+
+article{background: grey;
+color: lightgrey;
+padding: 20px;
+margin: 5px;
+}
+
+h1
+{background: lightgrey;
+color: grey;
+padding: 20px;}
+p{background: lightgrey;
+color: grey;
+padding: 20px;}
+section{
+  background: lightgrey;
+ padding:  20px;
+margin: 5px;
+width: 40%;
+float: left;
+}
+aside{
+  background: lightgrey;
+  padding: 20px;
+margin: 5px;
+width: 40%;
+float: right;
+}
+footer{
+  background: lightgrey;
+  padding: 20px;
+  clear: both;
+
+}
